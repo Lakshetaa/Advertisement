@@ -57,7 +57,7 @@ main #Flavours #Flavour{
 }
 
 main #About #A{
-    height: 325px;
+    height: 1150px;
     background-image: radial-gradient(rgb(0, 0, 0,0.7),rgb(0, 0, 0,0.7),rgb(0, 0, 0,0.7),rgb(0, 0, 0,0.7),rgb(0, 0, 0,0.7),rgb(255, 217, 0,0.7));    
     background-size: contain;
     border-radius: 10%;
